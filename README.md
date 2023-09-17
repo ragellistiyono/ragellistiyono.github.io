@@ -10,7 +10,7 @@
 [2]: https://t.me/conrad_tzy
 
 ## Instalasi
-1. Buat akun di <a href="https://github.com/signup" target="_blank">Github</a>
+1. Buat akun di [Github](https://github.com/signup)
 2. Click [Use This Template](https://github.com/new?template_name=ragellistiyono.github.io&template_owner=ragellistiyono)
 3. Pada kolom **Repository Name**, isi kolom sesuai username github anda, lalu anda tambahkan github.io setelah penulisan.
 
@@ -22,5 +22,8 @@
 - Anda juga harus merubah gambar di folder *img*
 
 ### Catatan : 
+- Perlu diketahui bahwa Script portofolio ini tidak responsive dengan kata lain tampilan tidak bisa menyesuaikan pada device Smartphone
+- Jika anda ingin melihat script portofolio yang lain, bisa hubungi saya pada contact di atas. atau follow akun github saya untuk update kedepannya.
+- Anda bisa click tulisan berwarna biru dan buka pada tab baru.
 - anda bisa menggunakan [canva](https://canva.com) untuk pengeditan gambar, atau platform lain senyaman anda
-- untuk editing file anda bisa menggunakan text editor maupung langsung edit pada repository.
+- untuk editing file anda bisa menggunakan text editor maupun langsung edit pada repository.
