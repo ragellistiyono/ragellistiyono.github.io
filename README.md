@@ -27,3 +27,8 @@
 - Anda bisa click tulisan berwarna biru dan buka pada tab baru.
 - anda bisa menggunakan [canva](https://canva.com) untuk pengeditan gambar, atau platform lain senyaman anda
 - untuk editing file anda bisa menggunakan text editor maupun langsung edit pada repository.
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
