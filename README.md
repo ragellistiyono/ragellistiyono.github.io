@@ -10,7 +10,7 @@
 [2]: https://t.me/conrad_tzy
 
 ## Instalasi
-1. Buat akun di [github](https://github.com/signup)
+1. Buat akun di <a href="https://github.com/signup" target="_blank">Github</a>
 2. Click [Use This Template](https://github.com/new?template_name=ragellistiyono.github.io&template_owner=ragellistiyono)
 3. Pada kolom **Repository Name**, isi kolom sesuai username github anda, lalu anda tambahkan github.io setelah penulisan.
 
